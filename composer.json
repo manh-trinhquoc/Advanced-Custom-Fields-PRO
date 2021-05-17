@@ -1,0 +1,15 @@
+{
+    "name": "manhtq/advanced-custom-fields-pro",
+    "type": "wordpress-plugin",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/manh-trinhquoc/Advanced-Custom-Fields-PRO",
+    "authors": [{
+        "name": "manhtq",
+        "homepage": "https://github.com/manh-trinhquoc"
+    }],
+    "require": {
+        "composer/installers": "v1.0.6",
+        "php": ">=5.6"
+    }
+}
